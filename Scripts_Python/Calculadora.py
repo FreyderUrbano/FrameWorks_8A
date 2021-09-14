@@ -8,8 +8,8 @@ resta = a-b
 multi = a*b
 divi = a/b
 
-print(suma)
-print(resta)
-print(multi)
-print(divi)
+print("LA SUMA ES ", suma)
+print("LA RESTA ES ", resta)
+print("LA MULTIPLICACION ES ", multi)
+print("LA DIVISION ES ", divi)
 
