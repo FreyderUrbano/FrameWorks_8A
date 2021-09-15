@@ -2,7 +2,6 @@
 Developer : Freyder
 Date: 14 septiembre 2021
 Descripcion: Script Python que permite identificar EL MAYOR DE DOS NUMEROS
-
 ''' 
 
 print("CALCULADORA BASICA")
@@ -25,4 +24,3 @@ elif numero1 < numero2:
 else:
     print("LOS NUMEROS SON IGUALES.")
 print("Fin.")
-
