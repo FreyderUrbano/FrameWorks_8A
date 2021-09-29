@@ -14,7 +14,7 @@ numgames = 1
 continueGame = True
 
 while (gameWin_player1 < 100) and continueGame:
-    os.system("clear")
+    
     print("=======================")
     print("PARTIDA NRO: ",numgames)
     print("=======================")
